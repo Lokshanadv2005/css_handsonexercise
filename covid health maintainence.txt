@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+
+<style>
+div
+{
+background-color:powderblue;
+height:600px;
+border:3px solid pink;
+margin-bottom:20px;
+}
+
+#titleName
+{
+margin-top:0px;
+}
+
+#health1
+{
+padding-top:20px;
+padding-left:20px;
+}
+#healthDescription1
+{
+font-size:20px;
+}
+#healthParagraph1
+{
+font-size:15px;
+}
+
+
+#health2
+{
+padding-top:80px;
+padding-right:20px;
+}
+#healthDescription2
+{
+font-size:20px;
+}
+#healthParagraph2
+{
+font-size:15px;
+}
+
+#health3
+{
+padding-top:80px;
+padding-right:20px;
+}
+#healthDescription3
+{
+font-size:20px;
+}
+#healthParagraph3
+{
+font-size:15px;
+}
+
+#health4
+{
+padding-top:80px;
+padding-right:20px;
+}
+#healthDescription4
+{
+font-size:20px;
+}
+#healthParagraph4
+{
+font-size:15px;
+}
+
+#health5
+{
+padding-top:80px;
+padding-right:20px;
+}
+#healthDescription5
+{
+font-size:20px;
+}
+#healthParagraph5
+{
+font-size:15px;
+}
+
+
+
+
+</style>
+</head>
+
+<body>
+
+<div>
+
+<h1 id="titleName" style="background-color:purple; text-align:center; height:60px;padding-top ">Easy Steps To A Healthier Lifestyle</h1>
+<aside style="float:left;padding-right:20px;">
+<img id="health1" src="https://media.istockphoto.com/id/1349067702/photo/greek-salad-with-vinaigrette-dressing-topped-with-grilled-chicken.jpg?b=1&s=170667a&w=0&k=20&c=1zaxLrUGj3NmDZ5iVpkW6GfQKdKCHNwl4oi7pEXFiJA=" style="width:700px; height:400px"; >
+</aside><br><br><br><br><br><br>
+<h4 id="healthDescription1">Eat more fruits and vegetables</h4>
+<p id="healthParagraph1">Fruits and vegetables contain important vitamins, minerals and plant chemicals. 
+They also contain fibre. There are many varieties of fruit and vegetables available
+and many ways to prepare, cook and serve them. A diet high in fruit and vegetables can 
+help protect you against cancer, diabetes and heart disease.</p>
+
+</div>
+
+<div>
+
+<aside style="float:right;padding-right:20px;">
+<img id="health2" src="https://thumbs.dreamstime.com/b/woman-various-poses-yoga-shapes-woman-doing-yoga-fitness-workout-set-yoga-positions-woman-various-poses-yoga-170613045.jpg" style="width:700px; height:400px"; >
